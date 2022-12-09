@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppAPIRESTful</string>
+    <string name="textview">Registros</string>
+    <string name="listadedatos">Lista de datos</string>
+    <string name="espaciado">    </string>
+</resources>
